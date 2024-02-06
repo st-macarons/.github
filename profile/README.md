@@ -1,7 +1,7 @@
-| Repository Name | Repository URL | Actions URL |
+| Project Name | Repository URL | Actions URL |
 |-----------------|----------------|-------------|
-| st-b2b-authentication-service | [LINK](https://github.com/st-macarons/st-b2b-authentication-service) | [LINK](https://github.com/st-macarons/st-b2b-authentication-service/actions) |
-| st-b2b-authentication-service | [LINK](https://github.com/st-macarons/st-b2b-contractor) | [LINK](https://github.com/st-macarons/st-b2b-contractor/actions) |
+| B2B Authentication | [LINK](https://github.com/st-macarons/st-b2b-authentication-service) | [LINK](https://github.com/st-macarons/st-b2b-authentication-service/actions) |
+| B2B Contractor | [LINK](https://github.com/st-macarons/st-b2b-contractor) | [LINK](https://github.com/st-macarons/st-b2b-contractor/actions) |
 
 
 
