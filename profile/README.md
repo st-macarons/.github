@@ -16,3 +16,7 @@
 ## *B2B FRONTEND*
 | Project Name | Repository URL | Actions URL |
 |-----------------|----------------|-------------|
+| B2B Framework | [LINK](https://github.com/st-macarons/st-b2b-framework-ui) | [LINK](https://github.com/st-macarons/st-b2b-framework-ui/actions) |
+| B2B Admin | [LINK](https://github.com/st-macarons/st-b2b-admin-ui) | [LINK](https://github.com/st-macarons/st-b2b-admin-ui/actions) |
+| B2B Contractor | [LINK](https://github.com/st-macarons/st-b2b-contractor-ui) | [LINK](https://github.com/st-macarons/st-b2b-contractor-ui/actions) |
+| B2B Management | [LINK](https://github.com/st-macarons/st-b2b-management-ui) | [LINK](https://github.com/st-macarons/st-b2b-management-ui/actions) |
