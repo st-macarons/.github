@@ -1,12 +1,12 @@
 ## *B2B BACKEND*
-| Project Name | Repository URL | Actions URL |
-|-----------------|----------------|-------------|
+| Project Name | Repository URL | Actions URL | Action Status |
+|-----------------|----------------|-------------|-------------|
 | Framework | [LINK](https://github.com/st-macarons/st-framework) | [LINK](https://github.com/st-macarons/st-framework/actions) | 
 | Authentication | [LINK](https://github.com/st-macarons/st-b2b-authentication-service) | [LINK](https://github.com/st-macarons/st-b2b-authentication-service/actions) |
 | Contractor | [LINK](https://github.com/st-macarons/st-b2b-contractor) | [LINK](https://github.com/st-macarons/st-b2b-contractor/actions) |
 | Distribution Center | [LINK](https://github.com/st-macarons/st-b2b-distribution-center) | [LINK](https://github.com/st-macarons/st-b2b-distribution-center/actions) |
 | Management | [LINK](https://github.com/st-macarons/st-b2b-management) | [LINK](https://github.com/st-macarons/st-b2b-management/actions) |
-| Admin | [LINK](https://github.com/st-macarons/st-b2b-admin) | [LINK](https://github.com/st-macarons/st-b2b-admin/actions) |
+| Admin | [LINK](https://github.com/st-macarons/st-b2b-admin) | [LINK](https://github.com/st-macarons/st-b2b-admin/actions) | ![Admin Status](https://github.com/st-macarons/st-b2b-admin/actions/workflows/docker-image-pipeline.yaml/badge.svg) |
 | Iiko Service | [LINK](https://github.com/st-macarons/st-b2b-iiko-service) | [LINK](https://github.com/st-macarons/st-b2b-iiko-service/actions) |
 | Telegram Bot | [LINK](https://github.com/st-macarons/st-telegram-bot) | [LINK](https://github.com/st-macarons/st-telegram-bot/actions) |
 | Delivery Service | [LINK](https://github.com/st-macarons/st-b2b-delivery-service) | [LINK](https://github.com/st-macarons/st-b2b-delivery-service/actions) |
