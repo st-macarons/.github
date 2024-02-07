@@ -6,3 +6,4 @@
 | B2B Management | [LINK](https://github.com/st-macarons/st-b2b-management) | [LINK](https://github.com/st-macarons/st-b2b-management/actions) |
 | B2B Admin | [LINK](https://github.com/st-macarons/st-b2b-admin) | [LINK](https://github.com/st-macarons/st-b2b-admin/actions) |
 | B2B Iiko Service | [LINK](https://github.com/st-macarons/st-b2b-iiko-service) | [LINK](https://github.com/st-macarons/st-b2b-iiko-service/actions) |
+| B2B Telegram Bot | [LINK](https://github.com/st-macarons/st-telegram-bot) | [LINK](https://github.com/st-macarons/st-telegram-bot/actions) |
