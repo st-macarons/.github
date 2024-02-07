@@ -14,9 +14,9 @@
 | .NET Example | [LINK](https://github.com/st-macarons/st-cicd-dotnet-example) | [LINK](https://github.com/st-macarons/st-cicd-dotnet-example/actions) |
 
 ## *B2B FRONTEND*
-| Project Name | Repository URL | Actions URL |
-|-----------------|----------------|-------------|
+| Project Name | Repository URL | Actions URL | Action Status |
+|-----------------|----------------|-------------|-------------|
 | Framework | [LINK](https://github.com/st-macarons/st-b2b-framework-ui) | [LINK](https://github.com/st-macarons/st-b2b-framework-ui/actions) |
-| Admin | [LINK](https://github.com/st-macarons/st-b2b-admin-ui) | [LINK](https://github.com/st-macarons/st-b2b-admin-ui/actions) |
-| Contractor | [LINK](https://github.com/st-macarons/st-b2b-contractor-ui) | [LINK](https://github.com/st-macarons/st-b2b-contractor-ui/actions) |
+| Admin | [LINK](https://github.com/st-macarons/st-b2b-admin-ui) | [LINK](https://github.com/st-macarons/st-b2b-admin-ui/actions) | ![Admin Status](https://github.com/st-macarons/st-b2b-admin-ui/actions/workflows/docker-image-pipeline.yaml/badge.svg) |
+| Contractor | [LINK](https://github.com/st-macarons/st-b2b-contractor-ui) | [LINK](https://github.com/st-macarons/st-b2b-contractor-ui/actions) | ![Contractor Status](https://github.com/st-macarons/st-b2b-contractor-ui/actions/workflows/docker-image-pipeline.yaml/badge.svg) |
 | Management | [LINK](https://github.com/st-macarons/st-b2b-management-ui) | [LINK](https://github.com/st-macarons/st-b2b-management-ui/actions) |
