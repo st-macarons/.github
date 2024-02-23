@@ -21,3 +21,15 @@
 | Contractor | [LINK](https://github.com/st-macarons/st-b2b-contractor-ui) | [LINK](https://github.com/st-macarons/st-b2b-contractor-ui/actions) | ![Last Run Status](https://github.com/st-macarons/st-b2b-contractor-ui/actions/workflows/docker-image-pipeline.yaml/badge.svg) |
 | Management | [LINK](https://github.com/st-macarons/st-b2b-management-ui) | [LINK](https://github.com/st-macarons/st-b2b-management-ui/actions) | ![Last Run Status](https://github.com/st-macarons/st-b2b-management-ui/actions/workflows/docker-image-pipeline.yaml/badge.svg) |
 | HR | [LINK](https://github.com/st-macarons/st-hr-ui) | [LINK](https://github.com/st-macarons/st-hr-ui/actions) | ![Last Run Status](https://github.com/st-macarons/st-hr-ui/actions/workflows/docker-image-pipeline.yaml/badge.svg) |
+
+## *B2C BACKEND*
+| Project Name | Repository URL | Action URL | Action Status |
+|-----------------|----------------|-------------|-------------|
+| B2C Framework | [LINK](https://github.com/st-macarons/st-framework) | [LINK](https://github.com/st-macarons/st-framework/actions)| ![Last Run Status](https://github.com/st-macarons/st-framework/actions/workflows/nuget-publish.yaml/badge.svg) |
+| B2C Identity Server | [LINK](https://github.com/st-macarons/st-identity-server) | [LINK](https://github.com/st-macarons/st-identity-server/actions)| ![Last Run Status](https://github.com/st-macarons/st-identity-server/actions/workflows/nuget-publish.yaml/badge.svg) |
+
+## *B2B FRONTEND*
+| Project Name | Repository URL | Actions URL | Action Status |
+|-----------------|----------------|-------------|-------------|
+| B2C Identity Server | [LINK](https://github.com/st-macarons/st-identity-server-ui) | [LINK](https://github.com/st-macarons/st-identity-server-ui/actions)| ![Last Run Status](https://github.com/st-macarons/st-identity-server-ui/actions/workflows/nuget-publish.yaml/badge.svg) |
+| B2C Admin | [LINK](https://github.com/st-macarons/st-admin-ui) | [LINK](https://github.com/st-macarons/st-admin-ui/actions)| ![Last Run Status](https://github.com/st-macarons/st-admin-ui/actions/workflows/nuget-publish.yaml/badge.svg) |
