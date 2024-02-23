@@ -28,7 +28,7 @@
 | B2C Framework | [LINK](https://github.com/st-macarons/st-framework) | [LINK](https://github.com/st-macarons/st-framework/actions)| ![Last Run Status](https://github.com/st-macarons/st-framework/actions/workflows/nuget-publish.yaml/badge.svg) |
 | B2C Identity Server | [LINK](https://github.com/st-macarons/st-identity-server) | [LINK](https://github.com/st-macarons/st-identity-server/actions)| ![Last Run Status](https://github.com/st-macarons/st-identity-server/actions/workflows/nuget-publish.yaml/badge.svg) |
 
-## *B2B FRONTEND*
+## *B2C FRONTEND*
 | Project Name | Repository URL | Actions URL | Action Status |
 |-----------------|----------------|-------------|-------------|
 | B2C Identity Server | [LINK](https://github.com/st-macarons/st-identity-server-ui) | [LINK](https://github.com/st-macarons/st-identity-server-ui/actions)| ![Last Run Status](https://github.com/st-macarons/st-identity-server-ui/actions/workflows/nuget-publish.yaml/badge.svg) |
