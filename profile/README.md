@@ -32,5 +32,5 @@
 ## *B2C FRONTEND*
 | Project Name | Repository URL | Actions URL | Action Status |
 |-----------------|----------------|-------------|-------------|
-| B2C Identity Server | [LINK](https://github.com/st-macarons/st-identity-server-ui) | [LINK](https://github.com/st-macarons/st-identity-server-ui/actions)| ![Last Run Status](https://github.com/st-macarons/st-identity-server-ui/actions/workflows/nuget-publish.yaml/badge.svg) |
-| B2C Admin | [LINK](https://github.com/st-macarons/st-admin-ui) | [LINK](https://github.com/st-macarons/st-admin-ui/actions)| ![Last Run Status](https://github.com/st-macarons/st-admin-ui/actions/workflows/nuget-publish.yaml/badge.svg) |
+| B2C Identity Server | [LINK](https://github.com/st-macarons/st-identity-server-ui) | [LINK](https://github.com/st-macarons/st-identity-server-ui/actions)| ![Last Run Status](https://github.com/st-macarons/st-identity-server-ui/actions/workflows/docker-image-pipeline.yaml/badge.svg) |
+| B2C Admin | [LINK](https://github.com/st-macarons/st-admin-ui) | [LINK](https://github.com/st-macarons/st-admin-ui/actions)| ![Last Run Status](https://github.com/st-macarons/st-admin-ui/actions/workflows/docker-image-pipeline.yaml/badge.svg) |
